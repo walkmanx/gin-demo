@@ -12,5 +12,5 @@
 
 	go run main.go
 	
-4. 在浏览器访问localhost:8080/ping 
+4. 在浏览器访问 http://localhost:8080/ping 
 
